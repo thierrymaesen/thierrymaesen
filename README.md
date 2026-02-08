@@ -4,6 +4,8 @@ Je suis Thierry un développeur en programmation informatique et science des don
 
 J'ai créer cette page aprés avoir obtenu deux certifications IA à University Helsinki (Element of IA et Building IA). 
 
+Je travail pricipalement en télétravail et suis a la recherche d'un emploi. 
+
 Actuellement, je me concentre sur :
 
 - Création IA avec Python
