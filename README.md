@@ -9,6 +9,7 @@ Actuellement, je me concentre sur :
 - Création IA avec Python
 - Agent IA
 - N8n et automatisation IA
+- Vibe coding
 
 
 <!--
