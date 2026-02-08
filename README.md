@@ -1,6 +1,6 @@
 ## Bienvenue 👋
 
-Je suis Thierry un développeur en prorammation informatique et science des données basée en Belgique.
+Je suis Thierry un développeur en prorammation informatique et science des données basé en Belgique.
 
 J'ai créer cette page aprés avoir obtenu deux certifications IA à University Helsinki (Element of IA et Building IA). 
 
