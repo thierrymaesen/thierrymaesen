@@ -1,4 +1,15 @@
-## Hi there 👋
+## Bienvenue 👋
+
+Je suis Thierry un développeur en prorammation informatique et science des données basée en Belgique.
+
+J'ai créer cette page aprés avoir obtenu deux certifications IA à University Helsinki (Element of IA et Building IA). 
+
+Actuellement, je me concentre sur :
+
+- Création IA avec Pyton
+- Agent IA
+- N8n et automatisation IA
+
 
 <!--
 **thierrymaesen/thierrymaesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
