@@ -1,6 +1,6 @@
-## Bienvenue 👋
+## Salut, je suis Thierry ! 👋
 
-Je suis Thierry un développeur en programmation informatique et science des données orientées IA en Belgique.
+Je suis un développeur en programmation informatique et science des données orientées IA en Belgique.
 
 J'ai créer cette page aprés avoir obtenu deux certifications IA à [University Helsinki](https://www.helsinki.fi/en) ([Element of IA](https://certificates.mooc.fi/validate/frwjcymtka)) et [Building IA](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
 
