@@ -8,6 +8,7 @@ Je travail principalement en télétravail et je suis à la recherche d'un emplo
 
 Actuellement, je me concentre sur :
 
+- Programmation Language Pyton
 - Création IA avec Python
 - Agent IA
 - N8n et automatisation IA
