@@ -1,3 +1,5 @@
+
+
 ## Salut, je suis Thierry ! 👋
 
 Je suis un développeur en programmation informatique et science des données orientées IA en Belgique.
