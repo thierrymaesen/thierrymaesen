@@ -16,11 +16,11 @@ Je travail principalement en télétravail et je suis à la recherche d'un emplo
 
 Actuellement, je me concentre sur :
 
-- Programmation Language Python
-- Création IA avec Python
-- Agent IA
-- N8n et automatisation IA
-- Vibe coding
+Programmation Language Python
+Création IA avec Python
+Agent IA
+N8n et automatisation IA
+Vibe coding
 
 # 💻 Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
