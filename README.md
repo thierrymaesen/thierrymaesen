@@ -42,7 +42,8 @@ Vibe coding
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thierrymaesen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--
 **thierrymaesen/thierrymaesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
