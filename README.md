@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue+!+👋;+Je+suis+Thierry+Maesen+!;" />
 </h1>
 
-<h3 align="center">Un développeur en programmation informatique et science des données orientées IA en Belgique (BE).</h3>
+<h3 align="center">Un développeur en programmation informatique et science des données orienté IA en Belgique (BE).</h3>
 
 <br/>
 
