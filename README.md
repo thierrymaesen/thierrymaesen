@@ -22,6 +22,14 @@ Agent IA<br>
 N8n et automatisation IA<br> 
 Vibe coding
 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+  
+</div>
+
 # 💻 Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
