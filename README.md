@@ -1,8 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thierrymaesen.thierrymaesen" />
 
-## Salut, je suis Thierry ! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue+!+👋;+Je+suis+Thierry+Maesen+!;" />
+</h1>
 
-Je suis un développeur en programmation informatique et science des données orientées IA en Belgique.
+<h3 align="center">Un développeur en programmation informatique et science des données orientées IA en Belgique (BE).</h3>
+
+<br/>
+
+<div align="center">
 
 J'ai créé cette page aprés avoir obtenu deux certifications IA à [University Helsinki](https://www.helsinki.fi/en) ([Element of IA](https://certificates.mooc.fi/validate/frwjcymtka) et [Building IA](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
 
