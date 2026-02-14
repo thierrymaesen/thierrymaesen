@@ -4,7 +4,7 @@
 
 Je suis un développeur en programmation informatique et science des données orientées IA en Belgique.
 
-J'ai créé cette page aprés avoir obtenu deux certifications IA à [University Helsinki](https://www.helsinki.fi/en) ([Element of IA](https://certificates.mooc.fi/validate/frwjcymtka)) et [Building IA](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
+J'ai créé cette page aprés avoir obtenu deux certifications IA à [University Helsinki](https://www.helsinki.fi/en) ([Element of IA](https://certificates.mooc.fi/validate/frwjcymtka) et [Building IA](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
 
 Je travail principalement en télétravail et je suis à la recherche d'un emploi. 
 
