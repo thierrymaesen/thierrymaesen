@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thierrymaesen" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thierrymaesen.thierrymaesen" />
 
 ## Salut, je suis Thierry ! 👋
 
