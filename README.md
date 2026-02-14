@@ -12,14 +12,14 @@
 
 J'ai créé cette page aprés avoir obtenu deux certifications IA à [University Helsinki](https://www.helsinki.fi/en) ([Element of IA](https://certificates.mooc.fi/validate/frwjcymtka) et [Building IA](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
 
-Je travail principalement en télétravail et je suis à la recherche d'un emploi. 
+Je travail principalement en télétravail et <b> je suis à la recherche d'un emploi</B>. 
 
 Actuellement, je me concentre sur :
 
-Programmation Language Python 
-Création IA avec Python
-Agent IA
-N8n et automatisation IA
+Programmation Language Python<br> 
+Création IA avec Python<br> 
+Agent IA<br> 
+N8n et automatisation IA<br> 
 Vibe coding
 
 # 💻 Technologies
