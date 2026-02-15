@@ -12,9 +12,9 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue+!+👋;+Je+suis+Thierry+Maesen+!;" />
-</h1>h1>
+</h1>
 
-<h3 align="center">Un développeur en programmation informatique et science des données orienté IA en Belgique (BE).</h3>h3>
+<h3 align="center">Un développeur en programmation informatique et science des données orienté IA en Belgique (BE).</h3>
 
 <br/>
 
@@ -34,7 +34,7 @@ Vibe coding
 
 <a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>a>
+</a>
 
 </div>
 
@@ -57,9 +57,9 @@ Vibe coding
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+!+👋;+I'm+Thierry+Maesen+!;" />
-</h1>h1>
+</h1>
 
-<h3 align="center">A developer in computer programming and data science focused on AI, based in Belgium (BE).</h3>h3>
+<h3 align="center">A developer in computer programming and data science focused on AI, based in Belgium (BE).</h3>
 
 <br/>
 
@@ -79,7 +79,7 @@ Vibe coding
 
 <a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>a>
+</a>
 
 </div>
 
