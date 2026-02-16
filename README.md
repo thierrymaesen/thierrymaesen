@@ -45,8 +45,10 @@ Vibe coding
 ### 👨‍💻 Projets de Développement Logiciel:
 
 - <b>Python</b>
+
   - [AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse) 
   - [NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)
+  - [MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)
 
 ### 📊 GitHub Statistiques:
 
@@ -98,6 +100,7 @@ Vibe coding
 - <b>Python</b>
   - [AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse) 
   - [NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)
+  - [MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)
 
 ### 📊 GitHub Statistics:
 
