@@ -24,6 +24,8 @@ J'ai créé cette page après avoir obtenu deux certifications IA à [University
 
 Je travaille principalement en télétravail et <b>je suis à la recherche d'un emploi</b>.
 
+Vous pouvez me tester via Agence [Intérim TeamOne Belgique](https://www.teamone.be/fr/chercher-interimaire) ou me proposer un défis Python ! 
+
 Actuellement, je me concentre sur :
 
 Programmation Language Python<br>
@@ -76,6 +78,8 @@ Vibe coding
 I created this page after obtaining two AI certifications from [University Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) and [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)).
 
 I mainly work remotely and <b>I am currently looking for a job</b>.
+
+You can test me via [TeamOne Belgium Temporary Employment Agency](https://www.teamone.be/en/chercher-interimaire) or propose a Python challenge to me !
 
 Currently, I am focusing on:
 
