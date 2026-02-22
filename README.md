@@ -106,6 +106,7 @@ Vibe coding
   - [AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse) 
   - [NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)
   - [MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)
+  - [Attack-gseg](https://github.com/thierrymaesen/attack-gseg) Cybersecurity with AI
 
 ### 📊 GitHub Statistics:
 
