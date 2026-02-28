@@ -52,6 +52,7 @@ Vibe coding
   - [NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)
   - [MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist) 
   - [Attack-gseg](https://github.com/thierrymaesen/attack-gseg) Cybersécurité avec IA
+  - [Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout) 
 
 ### 📊 GitHub Statistiques:
 
@@ -107,6 +108,7 @@ Vibe coding
   - [NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)
   - [MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)
   - [Attack-gseg](https://github.com/thierrymaesen/attack-gseg) Cybersecurity with AI
+  - [Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout) 
 
 ### 📊 GitHub Statistics:
 
