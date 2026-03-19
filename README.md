@@ -65,7 +65,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > *`Python` `Machine Learning` `BioMedical Data` `Recherche IA`*
 
 ### 👥 Ressources Humaines (RH) & Business
-> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 App Live](#)  
+> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://biomed-ai-lab.streamlit.app) 
 > Solution d'analyse prédictive de l'attrition (turnover) pour aider les départements RH à anticiper les départs et retenir les talents.  
 > *`Python` `Streamlit` `Analyse Prédictive` `HR Analytics`*
 
@@ -143,12 +143,12 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
 
 ### 🧬 Research & BioMedical (HealthTech)
-> 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  | [🔴 App Live]([#](https://biomed-ai-lab.streamlit.app/) 
+> 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  |  [🔴 Live App](https://biomed-ai-lab.streamlit.app)  
 > Applied research laboratory utilizing Artificial Intelligence to analyze biomedical data and advance scientific research.  
 > *`Python` `Machine Learning` `BioMedical Data` `AI Research`*
 
 ### 👥 Human Resources (HR) & Business
-> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](#)  
+> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](@)  
 > Predictive analytics solution for employee turnover (attrition) to help HR departments anticipate departures and retain top talent.  
 > *`Python` `Streamlit` `Predictive Analytics` `HR Analytics`*
 
