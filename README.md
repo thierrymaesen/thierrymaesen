@@ -42,7 +42,7 @@ Mon aventure dans l'écosystème IA s'est concrétisée par l'obtention de mes c
 Voici une sélection de mes projets phares, classés par secteur d'activité pour illustrer comment je traduis des algorithmes complexes en solutions concrètes.
 
 ### 🚀 Espace & Aérospatial (Space Tech)
-> 🛰️ **[AI Orbit Intelligence 3D](https://github.com/thierrymaesen/AI-Orbit-Intelligence-3D)** | [🔴 App Live](#)  
+> 🛰️ **[AI Orbit Intelligence 3D](https://github.com/thierrymaesen/AI-Orbit-Intelligence-3D)** | [🔴 App Live](https://huggingface.co/spaces/thierrymaesen/ai-orbit-intel-3d)  
 > Système de suivi de satellites en temps réel avec visualisation 3D interactive (intégration des données CelesTrak).  
 > *`Python` `Streamlit` `3D Data Viz` `Space Intelligence`*
 
