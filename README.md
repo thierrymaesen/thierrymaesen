@@ -55,7 +55,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > Outil de sécurité propulsé par l'IA liant les logs des segments sol (aérospatial) aux techniques MITRE ATT&CK via des graphes de connaissances.  
 > *`Cybersécurité` `Threat Intelligence` `Knowledge Graphs` `IA`*
 
-> 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 App Live](#)  
+> 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 App Live](https://fraudshield-thierry.streamlit.app/)  
 > Détection de fraude par carte de crédit avec Machine Learning, intégrant l'IA Explicable (XAI/SHAP) pour justifier les décisions de l'algorithme.  
 > *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
 
@@ -138,7 +138,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > AI-powered security tool linking aerospace ground segment logs to MITRE ATT&CK techniques via knowledge graphs.  
 > *`Cybersecurity` `Threat Intelligence` `Knowledge Graphs` `AI`*
 
-> 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 Live App](#)  
+> 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 Live App](https://fraudshield-thierry.streamlit.app/)  
 > Credit card fraud detection using Machine Learning, integrating Explainable AI (XAI/SHAP) to justify algorithmic decisions.  
 > *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
 
