@@ -60,7 +60,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
 
 ### 🧬 Recherche & BioMédical (HealthTech)
-> 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  
+> 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  | [🔴 App Live](#)  
 > Laboratoire de recherche appliquée utilisant l'Intelligence Artificielle pour analyser des données biomédicales et faire avancer la recherche scientifique.  
 > *`Python` `Machine Learning` `BioMedical Data` `Recherche IA`*
 
@@ -143,7 +143,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
 
 ### 🧬 Research & BioMedical (HealthTech)
-> 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  
+> 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  | [🔴 App Live]([#](https://biomed-ai-lab.streamlit.app/) 
 > Applied research laboratory utilizing Artificial Intelligence to analyze biomedical data and advance scientific research.  
 > *`Python` `Machine Learning` `BioMedical Data` `AI Research`*
 
