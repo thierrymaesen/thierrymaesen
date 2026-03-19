@@ -46,7 +46,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > Système de suivi de satellites en temps réel avec visualisation 3D interactive (intégration des données CelesTrak).  
 > *`Python` `Streamlit` `3D Data Viz` `Space Intelligence`*
 
-> 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 App Live](#)  
+> 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 App Live](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
 > Application de traitement d'images d'observation terrestre (Earth Observation) couplée à une recherche sémantique avancée.  
 > *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
 
@@ -129,7 +129,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > Real-time satellite tracking system featuring interactive 3D visualization (integrating CelesTrak data).  
 > *`Python` `Streamlit` `3D Data Viz` `Space Intelligence`*
 
-> 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 Live App](#)  
+> 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 Live App](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
 > Earth Observation (EO) image processing application coupled with advanced semantic search capabilities.  
 > *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
 
