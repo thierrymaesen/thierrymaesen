@@ -14,25 +14,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue+!+👋;+Je+suis+Thierry+Maesen+!;" />
 </h1>
 
-<h3 align="center">Un développeur en programmation informatique et science des données orienté IA en Belgique (BE).</h3>
+👋 **Développeur Full-Stack & Data Scientist orienté Intelligence Artificielle (Belgique)**
 
-<br/>
+Mon aventure dans l'écosystème IA s'est concrétisée par l'obtention de mes certifications à l'[University Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) & [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)). Aujourd'hui, je conçois des solutions où la donnée rencontre l'automatisation et l'IA.
 
-<div align="center">
+🎯 **Disponibilité :** Actuellement à la recherche de nouvelles opportunités (télétravail privilégié), je suis prêt à relever vos défis techniques. Envie d'évaluer mes compétences ? Vous pouvez me mandater via l'[Agence Intérim TeamOne Belgique](https://www.teamone.be/fr/chercher-interimaire) ou me lancer un défi Python en direct !
 
-J'ai créé cette page après avoir obtenu deux certifications IA à [University Helsinki](https://www.helsinki.fi/en) ([Element of IA](https://certificates.mooc.fi/validate/frwjcymtka) et [Building IA](https://certificates.mooc.fi/validate/oouf9a7l3z)).
+🚀 **Mon écosystème technique actuel :**
+- **Python & Data Science :** Architecture logicielle et intégration de modèles d'IA
+- **Écosystème Agents IA :** Conception d'agents autonomes et interactifs
+- **Automatisation & n8n :** Orchestration de workflows intelligents
+- **Vibe Coding :** Développement intuitif et assisté par l'IA
 
-Je travaille principalement en télétravail et <b>je suis à la recherche d'un emploi</b>.
-
-Vous pouvez me tester via Agence [Intérim TeamOne Belgique](https://www.teamone.be/fr/chercher-interimaire) ou me proposer un défis Python ! 
-
-Actuellement, je me concentre sur :
-
-Programmation Language Python<br>
-Création IA avec Python<br>
-Agent IA<br>
-N8n et automatisation IA<br>
-Vibe coding
 
 <a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -44,15 +37,49 @@ Vibe coding
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 👨‍💻 Projets de Développement Logiciel:
+## 🔭 Portfolio : L'IA appliquée par domaine
 
-- <b>Python</b>
+Voici une sélection de mes projets phares, classés par secteur d'activité pour illustrer comment je traduis des algorithmes complexes en solutions concrètes.
 
-  - [AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse) 
-  - [NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)
-  - [MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist) 
-  - [Attack-gseg](https://github.com/thierrymaesen/attack-gseg) Cybersécurité avec IA
-  - [Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout) 
+### 🚀 Espace & Aérospatial (Space Tech)
+> 🛰️ **[AI Orbit Intelligence 3D](https://github.com/thierrymaesen/AI-Orbit-Intelligence-3D)** | [🔴 App Live](#)  
+> Système de suivi de satellites en temps réel avec visualisation 3D interactive (intégration des données CelesTrak).  
+> *`Python` `Streamlit` `3D Data Viz` `Space Intelligence`*
+
+> 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 App Live](#)  
+> Application de traitement d'images d'observation terrestre (Earth Observation) couplée à une recherche sémantique avancée.  
+> *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
+
+### 🛡️ Cybersécurité & Finance
+> 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
+> Outil de sécurité propulsé par l'IA liant les logs des segments sol (aérospatial) aux techniques MITRE ATT&CK via des graphes de connaissances.  
+> *`Cybersécurité` `Threat Intelligence` `Knowledge Graphs` `IA`*
+
+> 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 App Live](#)  
+> Détection de fraude par carte de crédit avec Machine Learning, intégrant l'IA Explicable (XAI/SHAP) pour justifier les décisions de l'algorithme.  
+> *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
+
+### 🧬 Recherche & BioMédical (HealthTech)
+> 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  
+> Laboratoire de recherche appliquée utilisant l'Intelligence Artificielle pour analyser des données biomédicales et faire avancer la recherche scientifique.  
+> *`Python` `Machine Learning` `BioMedical Data` `Recherche IA`*
+
+### 👥 Ressources Humaines (RH) & Business
+> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 App Live](#)  
+> Solution d'analyse prédictive de l'attrition (turnover) pour aider les départements RH à anticiper les départs et retenir les talents.  
+> *`Python` `Streamlit` `Analyse Prédictive` `HR Analytics`*
+
+### 🎓 Pédagogie & Éducation IA
+> 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 App Live](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
+> Démonstrateur pédagogique et interactif illustrant l'impact de l'entraînement (epochs) sur la précision d'un réseau de neurones.  
+> *`Python` `Deep Learning` `Pédagogie IA` `Neural Networks`*
+
+### 🎵 Divertissement & Lifestyle
+> 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 App Live](#)  
+> Moteur de recommandation musicale intelligent (Projet "Building AI"), suggérant des playlists basées sur l'analyse de sentiment et l'humeur.  
+> *`Systèmes de Recommandation` `API` `Sentiment Analysis`*
+
+
 
 ### 📊 GitHub Statistiques:
 
@@ -71,25 +98,17 @@ Vibe coding
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+!+👋;+I'm+Thierry+Maesen+!;" />
 </h1>
 
-<h3 align="center">A developer in computer programming and data science focused on AI, based in Belgium (BE).</h3>
+👋 **AI-Driven Full-Stack Developer & Data Scientist (Belgium)**
 
-<br/>
+My journey into the AI ecosystem was solidified by earning my certifications from the [University of Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) & [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)). Today, I build solutions where data meets automation.
 
-<div align="center">
+🎯 **Availability:** Currently looking for new opportunities (remote work preferred), and I am ready to take on your technical challenges. Want to evaluate my skills? You can contract me through the [TeamOne Interim Agency Belgium](https://www.teamone.be/fr/chercher-interimaire) or throw a live Python challenge my way!
 
-I created this page after obtaining two AI certifications from [University Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) and [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)).
-
-I mainly work remotely and <b>I am currently looking for a job</b>.
-
-You can test me via [TeamOne Belgium Temporary Employment Agency](https://www.teamone.be/en/chercher-interimaire) or propose a Python challenge to me !
-
-Currently, I am focusing on:
-
-Python Programming Language<br>
-AI Development with Python<br>
-AI Agents<br>
-N8n and AI Automation<br>
-Vibe coding
+🚀 **My Current Tech Ecosystem:**
+- **Python & Data Science:** Software architecture and AI model integration
+- **AI Agents Ecosystem:** Designing autonomous and interactive agents
+- **Automation & n8n:** Orchestrating intelligent workflows
+- **Vibe Coding:** Intuitive and AI-assisted development
 
 <a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -101,14 +120,48 @@ Vibe coding
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 👨‍💻 Software Development Projects:
+## 🔭 Portfolio: AI Applied by Industry
 
-- <b>Python</b>
-  - [AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse) 
-  - [NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)
-  - [MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)
-  - [Attack-gseg](https://github.com/thierrymaesen/attack-gseg) Cybersecurity with AI
-  - [Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout) 
+Here is a selection of my flagship projects, categorized by sector to illustrate how I translate complex algorithms into tangible business solutions.
+
+### 🚀 Space & Aerospace (Space Tech)
+> 🛰️ **[AI Orbit Intelligence 3D](https://github.com/thierrymaesen/AI-Orbit-Intelligence-3D)** | [🔴 Live App](https://huggingface.co/spaces/thierrymaesen/ai-orbit-intel-3d)  
+> Real-time satellite tracking system featuring interactive 3D visualization (integrating CelesTrak data).  
+> *`Python` `Streamlit` `3D Data Viz` `Space Intelligence`*
+
+> 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 Live App](#)  
+> Earth Observation (EO) image processing application coupled with advanced semantic search capabilities.  
+> *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
+
+### 🛡️ Cybersecurity & Finance
+> 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
+> AI-powered security tool linking aerospace ground segment logs to MITRE ATT&CK techniques via knowledge graphs.  
+> *`Cybersecurity` `Threat Intelligence` `Knowledge Graphs` `AI`*
+
+> 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 Live App](#)  
+> Credit card fraud detection using Machine Learning, integrating Explainable AI (XAI/SHAP) to justify algorithmic decisions.  
+> *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
+
+### 🧬 Research & BioMedical (HealthTech)
+> 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  
+> Applied research laboratory utilizing Artificial Intelligence to analyze biomedical data and advance scientific research.  
+> *`Python` `Machine Learning` `BioMedical Data` `AI Research`*
+
+### 👥 Human Resources (HR) & Business
+> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](#)  
+> Predictive analytics solution for employee turnover (attrition) to help HR departments anticipate departures and retain top talent.  
+> *`Python` `Streamlit` `Predictive Analytics` `HR Analytics`*
+
+### 🎓 AI Education & Pedagogy
+> 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 Live App](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
+> Interactive educational demonstrator illustrating the impact of training epochs on a neural network's accuracy.  
+> *`Python` `Deep Learning` `AI Pedagogy` `Neural Networks`*
+
+### 🎵 Entertainment & Lifestyle
+> 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 Live App](#)  
+> Intelligent music recommendation engine (Building AI project framework), suggesting playlists based on sentiment and mood analysis.  
+> *`Recommendation Systems` `API` `Sentiment Analysis`*
+
 
 ### 📊 GitHub Statistics:
 
