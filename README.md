@@ -75,7 +75,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > *`Python` `Deep Learning` `Pédagogie IA` `Neural Networks`*
 
 ### 🎵 Divertissement & Lifestyle
-> 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 App Live](#)  
+> 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 App Live](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)  
 > Moteur de recommandation musicale intelligent (Projet "Building AI"), suggérant des playlists basées sur l'analyse de sentiment et l'humeur.  
 > *`Systèmes de Recommandation` `API` `Sentiment Analysis`*
 
@@ -158,7 +158,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > *`Python` `Deep Learning` `AI Pedagogy` `Neural Networks`*
 
 ### 🎵 Entertainment & Lifestyle
-> 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 Live App](#)  
+> 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 Live App](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)  
 > Intelligent music recommendation engine (Building AI project framework), suggesting playlists based on sentiment and mood analysis.  
 > *`Recommendation Systems` `API` `Sentiment Analysis`*
 
