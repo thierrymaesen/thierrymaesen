@@ -74,6 +74,12 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > Démonstrateur pédagogique et interactif illustrant l'impact de l'entraînement (epochs) sur la précision d'un réseau de neurones.  
 > *`Python` `Deep Learning` `Pédagogie IA` `Neural Networks`*
 
+### 🏛️ Patrimoine & Archéologie
+
+> 🏺 **[ArcheoRAG](https://github.com/thierrymaesen/ArcheoRAG)** | [🔴 App Live](https://archeorag.streamlit.app/)  
+> Application de recherche augmentée par génération (RAG) dédiée à l'exploration et à l'analyse de contenus archéologiques et patrimoniaux.  
+> *`RAG` `LLM` `Information Retrieval` `Cultural Heritage`*
+
 ### 🎵 Divertissement & Lifestyle
 > 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 App Live](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)  
 > Moteur de recommandation musicale intelligent (Projet "Building AI"), suggérant des playlists basées sur l'analyse de sentiment et l'humeur.  
@@ -156,6 +162,12 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 Live App](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
 > Interactive educational demonstrator illustrating the impact of training epochs on a neural network's accuracy.  
 > *`Python` `Deep Learning` `AI Pedagogy` `Neural Networks`*
+
+### 🏛️ Heritage & Archaeology
+
+> 🏺 **[ArcheoRAG](https://github.com/thierrymaesen/ArcheoRAG)** | [🔴 Live App](https://archeorag.streamlit.app/)  
+> Retrieval-Augmented Generation (RAG) application designed for the exploration and analysis of archaeological and heritage-related content.  
+> *`RAG` `LLM` `Information Retrieval` `Cultural Heritage`*
 
 ### 🎵 Entertainment & Lifestyle
 > 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 Live App](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)  
