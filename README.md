@@ -110,7 +110,11 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 
 👋 **AI-Driven Full-Stack Developer & Data Scientist (Belgium)**
 
-My journey into the AI ecosystem was solidified by earning my certifications from the [University of Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) & [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)). Today, I build solutions where data meets automation.
+My journey into the AI ecosystem was solidified by earning my certifications from the [University of Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) & [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
+
+I also completed the certification course in Python programming from Harvard University and [obtained the CS50P certificate](https://certificates.cs50.io/9110f6fe-35ad-4dc6-9201-8770d8c1909b.pdf).
+
+Today, I build solutions where data meets automation.
 
 🎯 **Availability:** Currently looking for new opportunities (remote work preferred), and I am ready to take on your technical challenges. Want to evaluate my skills? You can contract me through the [TeamOne Interim Agency Belgium](https://www.teamone.be/fr/chercher-interimaire) or throw a live Python challenge my way!
 
