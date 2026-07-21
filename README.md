@@ -16,7 +16,11 @@
 
 👋 **Développeur Full-Stack & Data Scientist orienté Intelligence Artificielle (Belgique)**
 
-Mon aventure dans l'écosystème IA s'est concrétisée par l'obtention de mes certifications à l'[University Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) & [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)). Aujourd'hui, je conçois des solutions où la donnée rencontre l'automatisation et l'IA.
+Mon aventure dans l'écosystème IA s'est concrétisée par l'obtention de mes certifications à l'[University Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) & [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
+
+J'ai également suivi la formation certifiante en langage Python de L’université d'Harvard et [obtenu le certificat CS50P](https://certificates.cs50.io/9110f6fe-35ad-4dc6-9201-8770d8c1909b.pdf) .
+
+Aujourd'hui, je conçois des solutions où la donnée rencontre l'automatisation et l'IA.
 
 🎯 **Disponibilité :** Actuellement à la recherche de nouvelles opportunités (télétravail privilégié), je suis prêt à relever vos défis techniques. Envie d'évaluer mes compétences ? Vous pouvez me mandater via l'[Agence Intérim TeamOne Belgique](https://www.teamone.be/fr/chercher-interimaire) ou me lancer un défi Python en direct !
 
