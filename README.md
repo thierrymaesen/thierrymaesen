@@ -89,6 +89,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > ⚗️ **[Material-Alchemist](https://github.com/thierrymaesen/Material-Alchemist)** | [🔴 App Live](https://material-alchemist.streamlit.app/)  
 > Plateforme d'exploration de la base *Materials Project* (MIT/Berkeley) avec rendu 3D des structures cristallines et conception générative de matériaux inédits par IA.
 > *`Materials Project API` `py3Dmol` `IA Générative` `Data Science`*
+>
+> <a href="https://youtu.be/QYm2HQcU4Ek?si=Cesa35ZrnR0T5gXI" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 ### 📈 Stratégie Business & E-Réputation
 
@@ -210,6 +212,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > ⚗️ **[Material-Alchemist](https://github.com/thierrymaesen/Material-Alchemist)** | [🔴 Live App](https://material-alchemist.streamlit.app/)  
 > Exploration platform for the Materials Project database (MIT/Berkeley), featuring 3D rendering of crystal structures and AI-driven generative design of novel materials. 
 > *`Materials Project API` `py3Dmol` `Generative AI` `Data Science`*
+>
+> <a href="https://youtu.be/QYm2HQcU4Ek?si=Cesa35ZrnR0T5gXI" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### 📈 Business Strategy & E-Reputation
 > 📊 [**AI-BusinessPulse**](https://github.com/thierrymaesen/AI-BusinessPulse) | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
