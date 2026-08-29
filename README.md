@@ -75,6 +75,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  | [🔴 Live App](https://biomed-ai-lab.streamlit.app) 
 >  Laboratoire de recherche appliquée utilisant l'Intelligence Artificielle pour analyser des données biomédicales et faire avancer la recherche scientifique.  
 > *`Python` `Machine Learning` `BioMedical Data` `Recherche IA`*
+>
+> <a href="https://youtu.be/mqxFfKSlcyo?si=5UtuSSOQrnZMTDBr" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 > 🧬 **[Gene-Agent](https://github.com/thierrymaesen/Gene-Agent)** | [🔴 Live App](https://gene-agent.streamlit.app/)  
 > Agent IA autonome (Agentic Workflow) dédié à la bio-informatique : le LLM raisonne, sélectionne et exécute ses propres outils Biopython pour analyser des séquences d'ADN.  
@@ -193,6 +195,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  |  [🔴 Live App](https://biomed-ai-lab.streamlit.app)  
 > Applied research laboratory utilizing Artificial Intelligence to analyze biomedical data and advance scientific research.  
 > *`Python` `Machine Learning` `BioMedical Data` `AI Research`*
+>
+> <a href="https://youtu.be/mqxFfKSlcyo?si=5UtuSSOQrnZMTDBr" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 > 🧬 **[Gene-Agent](https://github.com/thierrymaesen/Gene-Agent)** | [🔴 Live App](https://gene-agent.streamlit.app/)  
 > Autonomous AI agent (Agentic Workflow) dedicated to bioinformatics: the LLM reasons, selects and executes its own Biopython tools to analyze DNA sequences.  
