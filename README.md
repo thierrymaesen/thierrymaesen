@@ -80,7 +80,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 
 ### 👥 Ressources Humaines (RH) & Business
 > 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)
-> Solution d'analyse prédictive de l'attrition (turnover) pour aider les départements RH à anticiper les départs et retenir les talents.  
+> Analysez vos avis clients, détectez les émotions, générez des réponses automatiques, comparez-vous à la concurrence et prédisez vos tendances de réputation — le tout propulsé par l'Intelligence Artificielle.  
 > *`Python` `Streamlit` `Analyse Prédictive` `HR Analytics`*
 
 > 🧑‍💼 **[HR-Attrition-Predictor-AI](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI)** | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
