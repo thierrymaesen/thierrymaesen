@@ -179,6 +179,11 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > Autonomous AI agent (Agentic Workflow) dedicated to bioinformatics: the LLM reasons, selects and executes its own Biopython tools to analyze DNA sequences.  
 > *`AI Agents` `smolagents` `Biopython` `LLM`*
 
+### ⚗️ Materials Science & Chemistry (Deep Tech)
+> ⚗️ **[Material-Alchemist](https://github.com/thierrymaesen/Material-Alchemist)** | [🔴 Live App](https://material-alchemist.streamlit.app/)  
+> Exploration platform for the Materials Project database (MIT/Berkeley), featuring 3D rendering of crystal structures and AI-driven generative design of novel materials. 
+> *`Materials Project API` `py3Dmol` `Generative AI` `Data Science`*
+
 ### 👥 Human Resources (HR) & Business
 > 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
 > Predictive analytics solution for employee turnover (attrition) to help HR departments anticipate departures and retain top talent.  
