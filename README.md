@@ -62,6 +62,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
 > Outil de sécurité propulsé par l'IA liant les logs des segments sol (aérospatial) aux techniques MITRE ATT&CK via des graphes de connaissances.  
 > *`Cybersécurité` `Threat Intelligence` `Knowledge Graphs` `IA`*
+>
+> <a href="https://youtu.be/eYCEziV1MJ8?si=_fjRKemAWxV3eFbj" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 > 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 App Live](https://fraudshield-thierry.streamlit.app/)  
 > Détection de fraude par carte de crédit avec Machine Learning, intégrant l'IA Explicable (XAI/SHAP) pour justifier les décisions de l'algorithme.  
@@ -176,6 +178,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
 > AI-powered security tool linking aerospace ground segment logs to MITRE ATT&CK techniques via knowledge graphs.  
 > *`Cybersecurity` `Threat Intelligence` `Knowledge Graphs` `AI`*
+>
+> <a href="https://youtu.be/eYCEziV1MJ8?si=_fjRKemAWxV3eFbj" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 > 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 Live App](https://fraudshield-thierry.streamlit.app/)  
 > Credit card fraud detection using Machine Learning, integrating Explainable AI (XAI/SHAP) to justify algorithmic decisions.  
