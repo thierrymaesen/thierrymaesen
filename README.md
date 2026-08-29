@@ -105,6 +105,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🧑‍💼 [**HR-Attrition-Predictor-AI**](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI) | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
 >  *TalentKeep AI : Prédiction du turnover couplée à l'IA Explicable (SHAP) pour révéler, employé par employé, les points de friction et les leviers de rétention.*  
 >  `[Machine Learning]` `[SHAP / Explainable AI]` `[scikit-learn]` `[HR Analytics]`
+>
+> <a href="https://youtu.be/W7K5sc_ZYjA?si=WTLO8NJsbve7yMiT" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 ### 🎓 Pédagogie & Éducation IA
 > 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 App Live](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
@@ -228,6 +230,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🧑‍💼 [**HR-Attrition-Predictor-AI**](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI) | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
 >  *TalentKeep AI: Turnover prediction coupled with Explainable AI (SHAP) to reveal individual friction points and retention drivers for every employee.
 > *`[Machine Learning]` `[SHAP / Explainable AI]` `[scikit-learn]` `[HR Analytics]`
+>
+> <a href="https://youtu.be/W7K5sc_ZYjA?si=WTLO8NJsbve7yMiT" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### 🎓 AI Education & Pedagogy
 > 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 Live App](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
