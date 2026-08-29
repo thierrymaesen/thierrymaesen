@@ -132,14 +132,21 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 
 
 
-### 📊 GitHub Statistiques:
+### 📊 GitHub Statistics:
 
-![](https://github-readme-stats.vercel.app/api?username=thierrymaesen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thierrymaesen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thierrymaesen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thierrymaesen&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Thierry's GitHub Stats" />
+</p>
 
-### 🔝 Top Contribution Repo
-![](https://github-contributor-stats.vercel.app/api?username=thierrymaesen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thierrymaesen&theme=dark&hide_border=false" alt="Thierry's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thierrymaesen&theme=dark&hide_border=false&layout=compact" alt="Thierry's Top Languages" />
+</p>
+
+<!-- Le Top Contribution Repo a été temporairement supprimé car le service est totalement hors ligne pour tout le monde en ce moment. -->
 
 ---
 
