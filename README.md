@@ -264,9 +264,20 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 
 ### 📊 GitHub Statistics:
 
-![](https://github-readme-stats.vercel.app/api?username=thierrymaesen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thierrymaesen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thierrymaesen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thierrymaesen&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Thierry's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thierrymaesen&theme=dark&hide_border=false" alt="Thierry's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierrymaesen&theme=dark&hide_border=false&layout=compact" alt="Thierry's Top Languages" />
+</p>
 
 ### 🔝 Top Contribution Repo
-![](https://github-contributor-stats.vercel.app/api?username=thierrymaesen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <!-- Remarque : Si ce lien ne s'affiche pas, le service est actuellement hors ligne, mais c'est le lien officiel -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=thierrymaesen&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
