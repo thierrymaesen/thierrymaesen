@@ -78,14 +78,17 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > Plateforme d'exploration de la base *Materials Project* (MIT/Berkeley) avec rendu 3D des structures cristallines et conception générative de matériaux inédits par IA.
 > *`Materials Project API` `py3Dmol` `IA Générative` `Data Science`*
 
-### 👥 Ressources Humaines (RH) & Business
-> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)
-> Analysez vos avis clients, détectez les émotions, générez des réponses automatiques, comparez-vous à la concurrence et prédisez vos tendances de réputation — le tout propulsé par l'Intelligence Artificielle.  
-> *`Python` `Streamlit` `Analyse Prédictive` `HR Analytics`*
+### 📈 Stratégie Business & E-Réputation
 
-> 🧑‍💼 **[HR-Attrition-Predictor-AI](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI)** | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
-> **TalentKeep AI** : prédiction du turnover couplée à l'IA Explicable (SHAP) pour révéler, employé par employé, les points de friction et les leviers de rétention.  
-> *`Machine Learning` `SHAP` `scikit-learn` `HR Analytics`*
+- 📊 [**AI-BusinessPulse**](https://github.com/thierrymaesen/AI-BusinessPulse) | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
+  *Analysez vos avis clients, détectez les émotions, générez des réponses automatiques, comparez-vous à la concurrence et prédisez vos tendances de réputation — le tout propulsé par l'Intelligence Artificielle.*  
+  `[NLP]` `[Sentiment Analysis]` `[Streamlit]` `[Analyse Prédictive]`
+
+### 👥 Ressources Humaines (HR Analytics)
+
+- 🧑‍💼 [**HR-Attrition-Predictor-AI**](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI) | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
+  *TalentKeep AI : Prédiction du turnover couplée à l'IA Explicable (SHAP) pour révéler, employé par employé, les points de friction et les leviers de rétention.*  
+  `[Machine Learning]` `[SHAP / Explainable AI]` `[scikit-learn]` `[HR Analytics]`
 
 ### 🎓 Pédagogie & Éducation IA
 > 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 App Live](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
