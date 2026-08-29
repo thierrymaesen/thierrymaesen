@@ -68,6 +68,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 App Live](https://fraudshield-thierry.streamlit.app/)  
 > Détection de fraude par carte de crédit avec Machine Learning, intégrant l'IA Explicable (XAI/SHAP) pour justifier les décisions de l'algorithme.  
 > *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
+>
+> <a href="https://youtu.be/tG0Fo7d7RgM?si=MuyKDvC02SvZ0Wdd" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 ### 🧬 Recherche & BioMédical (HealthTech)
 > 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  | [🔴 Live App](https://biomed-ai-lab.streamlit.app) 
@@ -184,6 +186,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 💳 **[FraudShield-XAI](https://github.com/thierrymaesen/FraudShield-XAI)** | [🔴 Live App](https://fraudshield-thierry.streamlit.app/)  
 > Credit card fraud detection using Machine Learning, integrating Explainable AI (XAI/SHAP) to justify algorithmic decisions.  
 > *`Machine Learning` `SHAP` `SMOTE` `Data Imbalance`*
+>
+> <a href="https://youtu.be/tG0Fo7d7RgM?si=MuyKDvC02SvZ0Wdd" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### 🧬 Research & BioMedical (HealthTech)
 > 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  |  [🔴 Live App](https://biomed-ai-lab.streamlit.app)  
