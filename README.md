@@ -175,6 +175,10 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > Applied research laboratory utilizing Artificial Intelligence to analyze biomedical data and advance scientific research.  
 > *`Python` `Machine Learning` `BioMedical Data` `AI Research`*
 
+🧬 **[Gene-Agent](https://github.com/thierrymaesen/Gene-Agent)** | [🔴 Live App](https://gene-agent.streamlit.app/)  
+> Autonomous AI agent (Agentic Workflow) dedicated to bioinformatics: the LLM reasons, selects and executes its own Biopython tools to analyze DNA sequences.  
+> *`AI Agents` `smolagents` `Biopython` `LLM`*
+
 ### 👥 Human Resources (HR) & Business
 > 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
 > Predictive analytics solution for employee turnover (attrition) to help HR departments anticipate departures and retain top talent.  
