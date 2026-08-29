@@ -265,7 +265,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 ### 📊 GitHub Statistics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thierrymaesen&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Thierry's GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thierrymaesen&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Thierry's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -273,11 +273,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierrymaesen&theme=dark&hide_border=false&layout=compact" alt="Thierry's Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thierrymaesen&theme=dark&hide_border=false&layout=compact" alt="Thierry's Top Languages" />
 </p>
 
-### 🔝 Top Contribution Repo
-<p align="center">
-  <!-- Remarque : Si ce lien ne s'affiche pas, le service est actuellement hors ligne, mais c'est le lien officiel -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=thierrymaesen&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
+<!-- Le Top Contribution Repo a été temporairement supprimé car le service est totalement hors ligne pour tout le monde en ce moment. -->
