@@ -187,14 +187,15 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > Exploration platform for the Materials Project database (MIT/Berkeley), featuring 3D rendering of crystal structures and AI-driven generative design of novel materials. 
 > *`Materials Project API` `py3Dmol` `Generative AI` `Data Science`*
 
-### 👥 Human Resources (HR) & Business
-> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
-> Analyze your customer reviews, detect emotions, generate automatic responses, compare yourself to the competition and predict your reputation trends — all powered by Artificial Intelligence.  
-> *`Python` `Streamlit` `Predictive Analytics` `HR Analytics`*
+### 📈 Business Strategy & E-Reputation
+> 📊 [**AI-BusinessPulse**](https://github.com/thierrymaesen/AI-BusinessPulse) | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
+>  *Analyze customer reviews, detect emotions, generate automated responses, benchmark against competitors, and predict reputation trends—all powered by Artificial Intelligence.
+> *`[NLP]` `[Sentiment Analysis]` `[Streamlit]` `[Predictive Analytics]`
 
-> 🧑‍💼 **[HR-Attrition-Predictor-AI](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI)** | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
-> **TalentKeep AI: turnover prediction coupled with Explainable AI (SHAP) to reveal, employee by employee, the friction points and the retention levers.  
-> *`Machine Learning` `SHAP` `scikit-learn` `HR Analytics`*
+### 👥 Human Resources (HR Analytics)
+> 🧑‍💼 [**HR-Attrition-Predictor-AI**](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI) | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
+>  *TalentKeep AI: Turnover prediction coupled with Explainable AI (SHAP) to reveal individual friction points and retention drivers for every employee.
+> *`[Machine Learning]` `[SHAP / Explainable AI]` `[scikit-learn]` `[HR Analytics]`
 
 ### 🎓 AI Education & Pedagogy
 > 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 Live App](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
