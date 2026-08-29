@@ -53,7 +53,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > <a href="https://youtu.be/ZAtVyzpLEf8?si=orwtUlrdHThT1ibd" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 > 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 App Live](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
-> Application de traitement d'images d'observation terrestre (Earth Observation) couplée à une recherche sémantique avancée.  
+> Application de traitement d'images d'observation terrestre (Earth Observation) couplée à une recherche sémantique avancée. Information importante, le chargement de l'application est lent vu que nous utilisons pour cette démonstration un serveur public !  
 > *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
 
 ### 🛡️ Cybersécurité & Finance
