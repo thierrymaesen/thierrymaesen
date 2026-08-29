@@ -79,7 +79,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > *`Materials Project API` `py3Dmol` `IA Générative` `Data Science`*
 
 ### 👥 Ressources Humaines (RH) & Business
-> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/) 
+> 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)
 > Solution d'analyse prédictive de l'attrition (turnover) pour aider les départements RH à anticiper les départs et retenir les talents.  
 > *`Python` `Streamlit` `Analyse Prédictive` `HR Analytics`*
 
