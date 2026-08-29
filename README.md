@@ -75,7 +75,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 
 ### ⚗️ Science des Matériaux & Chimie (Deep Tech)
 > ⚗️ **[Material-Alchemist](https://github.com/thierrymaesen/Material-Alchemist)** | [🔴 App Live](https://material-alchemist.streamlit.app/)  
-> Plateforme d'exploration de la base *Materials Project* (MIT/Berkeley) avec rendu 3D des structures cristallines et conception générative de matériaux inédits par IA.  
+> Plateforme d'exploration de la base *Materials Project* (MIT/Berkeley) avec rendu 3D des structures cristallines et conception générative de matériaux inédits par IA.
 > *`Materials Project API` `py3Dmol` `IA Générative` `Data Science`*
 
 ### 👥 Ressources Humaines (RH) & Business
