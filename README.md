@@ -49,8 +49,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🛰️ **[AI Orbit Intelligence 3D](https://github.com/thierrymaesen/ai-orbit-intel-3d)** | [🔴 App Live](https://huggingface.co/spaces/thierrymaesen/ai-orbit-intel-3d)  
 > Système de suivi de satellites en temps réel avec visualisation 3D interactive (intégration des données CelesTrak).  
 > *`Python` `Streamlit` `3D Data Viz` `Space Intelligence`*
-
-<a href="https://youtu.be/ZAtVyzpLEf8?si=orwtUlrdHThT1ibd" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
+>
+> <a href="https://youtu.be/ZAtVyzpLEf8?si=orwtUlrdHThT1ibd" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 > 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 App Live](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
 > Application de traitement d'images d'observation terrestre (Earth Observation) couplée à une recherche sémantique avancée.  
