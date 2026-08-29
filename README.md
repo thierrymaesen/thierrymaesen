@@ -67,6 +67,10 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🔬 **[BioMed_AI_Lab](https://github.com/thierrymaesen/BioMed_AI_Lab)**  | [🔴 Live App](https://biomed-ai-lab.streamlit.app)
 >  Laboratoire de recherche appliquée utilisant l'Intelligence Artificielle pour analyser des données biomédicales et faire avancer la recherche scientifique.  
 > *`Python` `Machine Learning` `BioMedical Data` `Recherche IA`*
+>
+> 🧬 **[Gene-Agent](https://github.com/thierrymaesen/Gene-Agent)** | [🔴 Live App](https://gene-agent.streamlit.app/)  
+> Agent IA autonome (Agentic Workflow) dédié à la bio-informatique : le LLM raisonne, sélectionne et exécute ses propres outils Biopython pour analyser des séquences d'ADN.  
+> *`Agents IA` `smolagents` `Biopython` `LLM`*
 
 ### 👥 Ressources Humaines (RH) & Business
 > 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/) 
