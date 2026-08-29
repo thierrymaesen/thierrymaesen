@@ -55,6 +55,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 App Live](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
 > Application de traitement d'images d'observation terrestre (Earth Observation) couplée à une recherche sémantique avancée. Information importante, le chargement de l'application est lent vu que nous utilisons pour cette démonstration un serveur public !  
 > *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
+>
+> <a href="https://youtu.be/q8n9Nt_OJTA?si=4T2kiq4lWOXiZ6E9" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 ### 🛡️ Cybersécurité & Finance
 > 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
@@ -167,6 +169,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 Live App](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
 > Earth Observation (EO) image processing application coupled with advanced semantic search capabilities. Important information: the application loads slowly because we are using a public server for this demonstration!
 > *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
+>
+>  <a href="https://youtu.be/q8n9Nt_OJTA?si=4T2kiq4lWOXiZ6E9" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### 🛡️ Cybersecurity & Finance
 > 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
