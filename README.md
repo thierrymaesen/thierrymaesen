@@ -165,7 +165,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > <a href="https://youtu.be/ZAtVyzpLEf8?si=orwtUlrdHThT1ibd" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 > 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 Live App](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
-> Earth Observation (EO) image processing application coupled with advanced semantic search capabilities.  
+> Earth Observation (EO) image processing application coupled with advanced semantic search capabilities. Important information: the application loads slowly because we are using a public server for this demonstration!
 > *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
 
 ### 🛡️ Cybersecurity & Finance
