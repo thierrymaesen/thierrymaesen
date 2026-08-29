@@ -97,6 +97,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 📊 [**AI-BusinessPulse**](https://github.com/thierrymaesen/AI-BusinessPulse) | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
 > *Analysez vos avis clients, détectez les émotions, générez des réponses automatiques, comparez-vous à la concurrence et prédisez vos tendances de réputation — le tout propulsé par l'Intelligence Artificielle.
 > *`[NLP]` `[Sentiment Analysis]` `[Streamlit]` `[Analyse Prédictive]`
+>
+> <a href="https://youtu.be/4PEsLIp9yck?si=WqORtDmU0tzSTgT2" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 ### 👥 Ressources Humaines (HR Analytics)
 
@@ -219,6 +221,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 📊 [**AI-BusinessPulse**](https://github.com/thierrymaesen/AI-BusinessPulse) | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
 >  *Analyze customer reviews, detect emotions, generate automated responses, benchmark against competitors, and predict reputation trends—all powered by Artificial Intelligence.
 > *`[NLP]` `[Sentiment Analysis]` `[Streamlit]` `[Predictive Analytics]`
+>
+> <a href="https://youtu.be/4PEsLIp9yck?si=WqORtDmU0tzSTgT2" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### 👥 Human Resources (HR Analytics)
 > 🧑‍💼 [**HR-Attrition-Predictor-AI**](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI) | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
