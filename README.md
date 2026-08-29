@@ -49,6 +49,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🛰️ **[AI Orbit Intelligence 3D](https://github.com/thierrymaesen/ai-orbit-intel-3d)** | [🔴 App Live](https://huggingface.co/spaces/thierrymaesen/ai-orbit-intel-3d)  
 > Système de suivi de satellites en temps réel avec visualisation 3D interactive (intégration des données CelesTrak).  
 > *`Python` `Streamlit` `3D Data Viz` `Space Intelligence`*
+
 <a href="https://youtu.be/ZAtVyzpLEf8?si=orwtUlrdHThT1ibd" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 > 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 App Live](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
@@ -160,6 +161,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🛰️ **[AI Orbit Intelligence 3D](https://github.com/thierrymaesen/AI-Orbit-Intelligence-3D)** | [🔴 Live App](https://huggingface.co/spaces/thierrymaesen/ai-orbit-intel-3d)  
 > Real-time satellite tracking system featuring interactive 3D visualization (integrating CelesTrak data).  
 > *`Python` `Streamlit` `3D Data Viz` `Space Intelligence`*
+
 <a href="https://youtu.be/ZAtVyzpLEf8?si=orwtUlrdHThT1ibd" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 > 🌍 **[Eo-visual-scout](https://github.com/thierrymaesen/eo-visual-scout)** | [🔴 Live App](https://huggingface.co/spaces/thierrymaesen/eo-visual-scout)  
