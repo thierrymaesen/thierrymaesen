@@ -120,6 +120,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🏺 **[ArcheoRAG](https://github.com/thierrymaesen/ArcheoRAG)** | [🔴 App Live](https://archeorag.streamlit.app/)  
 > Application de recherche augmentée par génération (RAG) dédiée à l'exploration et à l'analyse de contenus archéologiques et patrimoniaux.  
 > *`RAG` `LLM` `Information Retrieval` `Cultural Heritage`*
+>
+> <a href="https://youtu.be/3AF8PYKXpSM?si=lL_RfT4qTBVV5wR2" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 ### 🎵 Divertissement & Lifestyle
 > 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 App Live](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)  
@@ -247,6 +249,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🏺 **[ArcheoRAG](https://github.com/thierrymaesen/ArcheoRAG)** | [🔴 Live App](https://archeorag.streamlit.app/)  
 > Retrieval-Augmented Generation (RAG) application designed for the exploration and analysis of archaeological and heritage-related content.  
 > *`RAG` `LLM` `Information Retrieval` `Cultural Heritage`*
+>
+> <a href="https://youtu.be/3AF8PYKXpSM?si=lL_RfT4qTBVV5wR2" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### 🎵 Entertainment & Lifestyle
 > 🎧 **[MoodPlaylist](https://github.com/thierrymaesen/MoodPlaylist)** | [🔴 Live App](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)  
