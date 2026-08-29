@@ -175,7 +175,7 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > Applied research laboratory utilizing Artificial Intelligence to analyze biomedical data and advance scientific research.  
 > *`Python` `Machine Learning` `BioMedical Data` `AI Research`*
 
-🧬 **[Gene-Agent](https://github.com/thierrymaesen/Gene-Agent)** | [🔴 Live App](https://gene-agent.streamlit.app/)  
+> 🧬 **[Gene-Agent](https://github.com/thierrymaesen/Gene-Agent)** | [🔴 Live App](https://gene-agent.streamlit.app/)  
 > Autonomous AI agent (Agentic Workflow) dedicated to bioinformatics: the LLM reasons, selects and executes its own Biopython tools to analyze DNA sequences.  
 > *`AI Agents` `smolagents` `Biopython` `LLM`*
 
