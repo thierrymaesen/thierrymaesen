@@ -72,7 +72,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > Agent IA autonome (Agentic Workflow) dédié à la bio-informatique : le LLM raisonne, sélectionne et exécute ses propres outils Biopython pour analyser des séquences d'ADN.  
 > *`Agents IA` `smolagents` `Biopython` `LLM`*
 
-> ### ⚗️ Science des Matériaux & Chimie (Deep Tech)
+
+### ⚗️ Science des Matériaux & Chimie (Deep Tech)
 > ⚗️ **[Material-Alchemist](https://github.com/thierrymaesen/Material-Alchemist)** | [🔴 App Live](https://material-alchemist.streamlit.app/)  
 > Plateforme d'exploration de la base *Materials Project* (MIT/Berkeley) avec rendu 3D des structures cristallines et conception générative de matériaux inédits par IA.  
 > *`Materials Project API` `py3Dmol` `IA Générative` `Data Science`*
@@ -81,7 +82,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 📊 **[AI-BusinessPulse](https://github.com/thierrymaesen/AI-BusinessPulse)** | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/) 
 > Solution d'analyse prédictive de l'attrition (turnover) pour aider les départements RH à anticiper les départs et retenir les talents.  
 > *`Python` `Streamlit` `Analyse Prédictive` `HR Analytics`*
->
+
 > 🧑‍💼 **[HR-Attrition-Predictor-AI](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI)** | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
 > **TalentKeep AI** : prédiction du turnover couplée à l'IA Explicable (SHAP) pour révéler, employé par employé, les points de friction et les leviers de rétention.  
 > *`Machine Learning` `SHAP` `scikit-learn` `HR Analytics`*
