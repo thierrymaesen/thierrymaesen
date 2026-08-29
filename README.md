@@ -86,9 +86,9 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 
 ### 👥 Ressources Humaines (HR Analytics)
 
-- 🧑‍💼 [**HR-Attrition-Predictor-AI**](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI) | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
-  *TalentKeep AI : Prédiction du turnover couplée à l'IA Explicable (SHAP) pour révéler, employé par employé, les points de friction et les leviers de rétention.*  
-  `[Machine Learning]` `[SHAP / Explainable AI]` `[scikit-learn]` `[HR Analytics]`
+> 🧑‍💼 [**HR-Attrition-Predictor-AI**](https://github.com/thierrymaesen/HR-Attrition-Predictor-AI) | [🔴 Live App](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)  
+>  *TalentKeep AI : Prédiction du turnover couplée à l'IA Explicable (SHAP) pour révéler, employé par employé, les points de friction et les leviers de rétention.*  
+>  `[Machine Learning]` `[SHAP / Explainable AI]` `[scikit-learn]` `[HR Analytics]`
 
 ### 🎓 Pédagogie & Éducation IA
 > 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 App Live](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
