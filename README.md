@@ -81,6 +81,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🧬 **[Gene-Agent](https://github.com/thierrymaesen/Gene-Agent)** | [🔴 Live App](https://gene-agent.streamlit.app/)  
 > Agent IA autonome (Agentic Workflow) dédié à la bio-informatique : le LLM raisonne, sélectionne et exécute ses propres outils Biopython pour analyser des séquences d'ADN.  
 > *`Agents IA` `smolagents` `Biopython` `LLM`*
+>
+> <a href="https://youtu.be/UmWD7Xxzq1E?si=1jzkcZCGWoW39Mz9" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 
 ### ⚗️ Science des Matériaux & Chimie (Deep Tech)
@@ -201,6 +203,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🧬 **[Gene-Agent](https://github.com/thierrymaesen/Gene-Agent)** | [🔴 Live App](https://gene-agent.streamlit.app/)  
 > Autonomous AI agent (Agentic Workflow) dedicated to bioinformatics: the LLM reasons, selects and executes its own Biopython tools to analyze DNA sequences.  
 > *`AI Agents` `smolagents` `Biopython` `LLM`*
+>
+> <a href="https://youtu.be/UmWD7Xxzq1E?si=1jzkcZCGWoW39Mz9" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### ⚗️ Materials Science & Chemistry (Deep Tech)
 > ⚗️ **[Material-Alchemist](https://github.com/thierrymaesen/Material-Alchemist)** | [🔴 Live App](https://material-alchemist.streamlit.app/)  
