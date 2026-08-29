@@ -112,6 +112,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 App Live](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
 > Démonstrateur pédagogique et interactif illustrant l'impact de l'entraînement (epochs) sur la précision d'un réseau de neurones.  
 > *`Python` `Deep Learning` `Pédagogie IA` `Neural Networks`*
+>
+> <a href="https://youtu.be/BQzoABhDX7I?si=FZy6bLiGewp8Fctt" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 ### 🏛️ Patrimoine & Archéologie
 
@@ -237,6 +239,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🧠 **[NeuroTriple-Lab](https://github.com/thierrymaesen/NeuroTriple-Lab)** | [🔴 Live App](https://thierrymaesen.github.io/NeuroTriple-Lab/)  
 > Interactive educational demonstrator illustrating the impact of training epochs on a neural network's accuracy.  
 > *`Python` `Deep Learning` `AI Pedagogy` `Neural Networks`*
+>
+> <a href="https://youtu.be/BQzoABhDX7I?si=FZy6bLiGewp8Fctt" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### 🏛️ Heritage & Archaeology
 
