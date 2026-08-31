@@ -239,6 +239,13 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 >
 > <a href="https://youtu.be/QYm2HQcU4Ek?si=Cesa35ZrnR0T5gXI" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
+### 🧠 Cognitive Engineering & Problem Solving
+> 🧩 [First-Principles Generator](https://github.com/thierrymaesen/first-principles-generator)
+> *AI application based on Elon Musk's "First Principles" mental model. The tool deconstructs complex problems down to their fundamental truths to rebuild innovative solutions featuring automated report generation. 
+> *Prompt Engineering • Python • Streamlit • PDF Generation*
+>
+> 
+
 ### 📈 Business Strategy & E-Reputation
 > 📊 [**AI-BusinessPulse**](https://github.com/thierrymaesen/AI-BusinessPulse) | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
 >  *Analyze customer reviews, detect emotions, generate automated responses, benchmark against competitors, and predict reputation trends—all powered by Artificial Intelligence.
