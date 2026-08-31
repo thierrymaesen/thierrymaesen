@@ -92,11 +92,18 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 >
 > <a href="https://youtu.be/QYm2HQcU4Ek?si=Cesa35ZrnR0T5gXI" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
+### 🧠 Ingénierie Cognitive & Résolution de Problèmes
+> 🧩 [First-Principles Generator](https://github.com/thierrymaesen/first-principles-generator) 
+> *Application d'IA basée sur le modèle mental des "Premiers Principes" d'Elon Musk. L'outil déconstruit un problème complexe jusqu'à ses vérités fondamentales pour reconstruire des solutions innovantes, avec génération automatique de rapports. 
+> *Prompt Engineering • Python • Streamlit • Génération PDF*
+>
+> 
+
 ### 📈 Stratégie Business & E-Réputation
 
 > 📊 [**AI-BusinessPulse**](https://github.com/thierrymaesen/AI-BusinessPulse) | [🔴 Live App](https://ai-businesspulse-thierrymaesen.streamlit.app/)  
 > *Analysez vos avis clients, détectez les émotions, générez des réponses automatiques, comparez-vous à la concurrence et prédisez vos tendances de réputation — le tout propulsé par l'Intelligence Artificielle.
-> *`[NLP]` `[Sentiment Analysis]` `[Streamlit]` `[Analyse Prédictive]`
+> *`Prompt Engineering` `[Sentiment Analysis]` `[Streamlit]` `[Analyse Prédictive]`
 >
 > <a href="https://youtu.be/4PEsLIp9yck?si=WqORtDmU0tzSTgT2" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
