@@ -94,7 +94,7 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 
 ### 🧠 Ingénierie Cognitive & Résolution de Problèmes
 > 🧩 [First-Principles Generator](https://github.com/thierrymaesen/first-principles-generator) 
-> *Application d'IA basée sur le modèle mental des "Premiers Principes" d'Elon Musk. L'outil déconstruit un problème complexe jusqu'à ses vérités fondamentales pour reconstruire des solutions innovantes, avec génération automatique de rapports. 
+> Application d'IA basée sur le modèle mental des "Premiers Principes" d'Elon Musk. L'outil déconstruit un problème complexe jusqu'à ses vérités fondamentales pour reconstruire des solutions innovantes, avec génération automatique de rapports. 
 > *Prompt Engineering • Python • Streamlit • Génération PDF*
 >
 > 
