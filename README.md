@@ -58,6 +58,10 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 >
 > <a href="https://youtu.be/q8n9Nt_OJTA?si=4T2kiq4lWOXiZ6E9" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
+> 🌿 **[PhytoPulse](https://github.com/thierrymaesen/phytopulse)**  
+> Démonstrateur de télédétection appliquée à l’agriculture : détection explicable des variations de végétation à partir de séries temporelles NDVI, enrichies d’un contexte météorologique régional. Le pipeline Python produit des rapports JSON vérifiables et un dashboard HTML local, avec une CI GitHub Actions assurant l’exécution automatique des tests.  
+> *`Python` `Remote Sensing` `NDVI` `Meteostat` `Explainable AI` `GitHub Actions`*
+
 ### 🛡️ Cybersécurité & Finance
 > 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
 > Outil de sécurité propulsé par l'IA liant les logs des segments sol (aérospatial) aux techniques MITRE ATT&CK via des graphes de connaissances.  
@@ -205,6 +209,10 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > *`Python` `Computer Vision` `Remote Sensing` `Semantic Search`*
 >
 >  <a href="https://youtu.be/q8n9Nt_OJTA?si=4T2kiq4lWOXiZ6E9" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
+
+> 🌿 **[PhytoPulse](https://github.com/thierrymaesen/phytopulse)**  
+> Remote-sensing demonstrator for agriculture: explainable vegetation-change detection based on NDVI time series, enriched with regional weather context. The Python pipeline produces verifiable JSON reports and a local HTML dashboard, while GitHub Actions CI automatically runs the test suite.  
+> *`Python` `Remote Sensing` `NDVI` `Meteostat` `Explainable AI` `GitHub Actions`*
 
 ### 🛡️ Cybersecurity & Finance
 > 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
