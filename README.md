@@ -28,7 +28,7 @@ Aujourd'hui, je conçois des solutions où la donnée rencontre l'automatisation
 - **Python & Data Science :** Architecture logicielle et intégration de modèles d'IA
 - **Écosystème Agents IA :** Conception d'agents autonomes et interactifs
 - **Automatisation & n8n :** Orchestration de workflows intelligents
-- **Vibe Coding :** Développement intuitif et assisté par l'IA
+- **Vibe Coding + Harness Engineering :** Développement intuitif et assisté par l'IA
 
 
 <a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
@@ -181,7 +181,7 @@ Today, I build solutions where data meets automation.
 - **Python & Data Science:** Software architecture and AI model integration
 - **AI Agents Ecosystem:** Designing autonomous and interactive agents
 - **Automation & n8n:** Orchestrating intelligent workflows
-- **Vibe Coding:** Intuitive and AI-assisted development
+- **Vibe Coding + Harness Engineering:** Intuitive and AI-assisted development
 
 <a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
