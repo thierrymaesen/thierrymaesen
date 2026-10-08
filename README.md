@@ -215,6 +215,8 @@ Here is a selection of my flagship projects, categorized by sector to illustrate
 > 🌿 **[PhytoPulse](https://github.com/thierrymaesen/phytopulse)**  
 > Remote-sensing demonstrator for agriculture: explainable vegetation-change detection based on NDVI time series, enriched with regional weather context. The Python pipeline produces verifiable JSON reports and a local HTML dashboard, while GitHub Actions CI automatically runs the test suite.  
 > *`Python` `Remote Sensing` `NDVI` `Meteostat` `Explainable AI` `GitHub Actions`*
+>
+> <a href="https://youtu.be/JKnzYAxarnU?si=qhpb9qCWmifAVECq" target="_blank">📺 Watch the project presentation video on YouTube</a> <em>(in French, English subtitles available)</em>
 
 ### 🛡️ Cybersecurity & Finance
 > 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
