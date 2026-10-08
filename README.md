@@ -61,6 +61,8 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 > 🌿 **[PhytoPulse](https://github.com/thierrymaesen/phytopulse)**  
 > Démonstrateur de télédétection appliquée à l’agriculture : détection explicable des variations de végétation à partir de séries temporelles NDVI, enrichies d’un contexte météorologique régional. Le pipeline Python produit des rapports JSON vérifiables et un dashboard HTML local, avec une CI GitHub Actions assurant l’exécution automatique des tests.  
 > *`Python` `Remote Sensing` `NDVI` `Meteostat` `Explainable AI` `GitHub Actions`*
+>
+> <a href="https://youtu.be/JKnzYAxarnU?si=T0U2kIOo9vXgxVAP" target="_blank">📺 Regardez la vidéo de présentation du projet sur YouTube</a>
 
 ### 🛡️ Cybersécurité & Finance
 > 🔐 **[Attack-gseg](https://github.com/thierrymaesen/attack-gseg)**  
