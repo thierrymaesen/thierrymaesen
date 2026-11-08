@@ -11,28 +11,55 @@
 <a name="french"></a>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue+!+👋;+Je+suis+Thierry+Maesen+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue+!+👋;+Je+suis+Thierry+Maesen+!;" alt="Bienvenue ! Je suis Thierry Maesen !" />
 </h1>
 
-👋 **Développeur Full-Stack & Data Scientist orienté Intelligence Artificielle (Belgique)**
+👋 Développeur Python & IA · Applications web · Data Science · Belgique
 
-Mon aventure dans l'écosystème IA s'est concrétisée par l'obtention de mes certifications à l'[University Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) & [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
+Je conçois des applications où Python, les données et l’intelligence artificielle se rencontrent pour répondre à des besoins concrets : analyser, rechercher, automatiser et faciliter l’accès à l’information.
 
-J'ai également suivi la formation certifiante en langage Python de L’université d'Harvard et [obtenu le certificat CS50P](https://certificates.cs50.io/9110f6fe-35ad-4dc6-9201-8770d8c1909b.pdf) .
+Mon approche : comprendre le besoin, construire un prototype utile, vérifier les résultats et documenter les limites. J’utilise le développement assisté par l’IA pour accélérer la réalisation, sans remplacer les tests, les règles d’accès ni le jugement humain.
 
-Aujourd'hui, je conçois des solutions où la donnée rencontre l'automatisation et l'IA.
+### 🎓 Certifications — Harvard & Université d’Helsinki
 
-🎯 **Disponibilité :** Actuellement à la recherche de nouvelles opportunités (télétravail privilégié), je suis prêt à relever vos défis techniques. Envie d'évaluer mes compétences ? Vous pouvez me mandater via l'[Agence Intérim TeamOne Belgique](https://www.teamone.be/fr/chercher-interimaire) ou me lancer un défi Python en direct !
+Mon parcours de formation associe programmation Python et intelligence artificielle :
 
-🚀 **Mon écosystème technique actuel :**
-- **Python & Data Science :** Architecture logicielle et intégration de modèles d'IA
-- **Écosystème Agents IA :** Conception d'agents autonomes et interactifs
-- **Automatisation & n8n :** Orchestration de workflows intelligents
-- **Vibe Coding + Harness Engineering :** Développement intuitif et assisté par l'IA
+- [CS50AI — CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/6bf54840-b5e1-4df7-bda7-09d82f2f4e72) — Harvard University · Nouvelle certification
+- [CS50P — CS50’s Introduction to Programming with Python](https://certificates.cs50.io/9110f6fe-35ad-4dc6-9201-8770d8c1909b.pdf) — Harvard University
+- [Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) — Université d’Helsinki
+- [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z) — Université d’Helsinki
 
+Mes projets personnels complètent ces formations par une mise en pratique et permettent d’examiner mon code, mes choix de conception et ma documentation.
 
-<a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+### 🚀 Mon écosystème technique
+
+- Python & applications web : développement d’applications, conception d’API et intégration de services.
+- Data Science & IA : analyse de données, intégration de modèles et exploration d’approches explicables.
+- Agents IA & RAG : assistants interactifs, recherche documentaire et exploitation de sources contextualisées.
+- Automatisation & n8n : orchestration de workflows et connexion d’outils.
+- Vibe Coding & Harness Engineering : développement assisté par l’IA, encadré par des tests, des vérifications et une documentation claire.
+- Déploiement local, cloud ou hybride : choix adaptés aux données, aux contraintes et aux besoins du projet.
+
+### 🎯 Disponibilité
+
+Actuellement à la recherche de nouvelles opportunités en CDD ou CDI, ou de missions via une agence d’intérim.
+
+📍 Télétravail privilégié depuis la Belgique ; présentiel possible dans la région de Liège.
+
+Vous pouvez me contacter directement sur LinkedIn ou envisager une mission via [TeamOne Belgique](https://www.teamone.be/fr/chercher-interimaire), en précisant mon nom : Thierry Maesen. Je suis également ouvert à une collaboration via votre agence habituelle.
+
+Envie d’évaluer mes compétences ? Échangeons autour de vos besoins, de mes projets ou d’un défi Python concret.
+
+### 🌐 Découvrir mon parcours et mes projets
+
+Mon [site personnel](https://ai.thierrymaesen.be/) présente mon parcours, ma méthode de travail et une sélection de mes réalisations en Python et en intelligence artificielle.
+
+<a href="https://ai.thierrymaesen.be/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Site_personnel-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site personnel de Thierry Maesen" />
+</a>
+
+<a href="https://www.linkedin.com/in/thierrymaesen" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Profil LinkedIn de Thierry Maesen" />
 </a>
 
 </div>
