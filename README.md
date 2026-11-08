@@ -193,27 +193,55 @@ Voici une sélection de mes projets phares, classés par secteur d'activité pou
 <a name="english"></a>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+!+👋;+I'm+Thierry+Maesen+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+Thierry+Maesen!;" alt="Welcome! I'm Thierry Maesen!" />
 </h1>
 
-👋 **AI-Driven Full-Stack Developer & Data Scientist (Belgium)**
+👋 Python & AI Developer · Web Applications · Data Science · Belgium
 
-My journey into the AI ecosystem was solidified by earning my certifications from the [University of Helsinki](https://www.helsinki.fi/en) ([Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) & [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z)). 
+I build applications that bring together Python, data, and artificial intelligence to address practical needs: analyzing information, improving search, automating tasks, and making knowledge more accessible.
 
-I also completed the certification course in Python programming from Harvard University and [obtained the CS50P certificate](https://certificates.cs50.io/9110f6fe-35ad-4dc6-9201-8770d8c1909b.pdf).
+My approach: understand the need, build a useful prototype, verify the results, and document the limitations. I use AI-assisted development to accelerate delivery—not to replace testing, access controls, or human judgment.
 
-Today, I build solutions where data meets automation.
+### 🎓 Certifications — Harvard & University of Helsinki
 
-🎯 **Availability:** Currently looking for new opportunities (remote work preferred), and I am ready to take on your technical challenges. Want to evaluate my skills? You can contract me through the [TeamOne Interim Agency Belgium](https://www.teamone.be/fr/chercher-interimaire) or throw a live Python challenge my way!
+My learning journey combines Python programming and artificial intelligence:
 
-🚀 **My Current Tech Ecosystem:**
-- **Python & Data Science:** Software architecture and AI model integration
-- **AI Agents Ecosystem:** Designing autonomous and interactive agents
-- **Automation & n8n:** Orchestrating intelligent workflows
-- **Vibe Coding + Harness Engineering:** Intuitive and AI-assisted development
+- [CS50AI — CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/6bf54840-b5e1-4df7-bda7-09d82f2f4e72) — Harvard University · Newly earned
+- [CS50P — CS50’s Introduction to Programming with Python](https://certificates.cs50.io/9110f6fe-35ad-4dc6-9201-8770d8c1909b.pdf) — Harvard University
+- [Elements of AI](https://certificates.mooc.fi/validate/frwjcymtka) — University of Helsinki
+- [Building AI](https://certificates.mooc.fi/validate/oouf9a7l3z) — University of Helsinki
 
-<a href="https://www.linkedin.com/in/thierrymaesen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+My personal projects complement these courses with hands-on experience and provide opportunities to review my code, design decisions, and documentation.
+
+### 🚀 My Technical Ecosystem
+
+- Python & Web Applications: application development, API design, and service integration.
+- Data Science & AI: data analysis, model integration, and exploration of explainable approaches.
+- AI Agents & RAG: interactive assistants, document search, and retrieval-augmented generation using relevant source material.
+- Automation & n8n: workflow orchestration and tool integration.
+- Vibe Coding & Harness Engineering: AI-assisted development supported by tests, validation, and clear documentation.
+- Local, Cloud, or Hybrid Deployment: approaches tailored to project requirements, data constraints, and operational needs.
+
+### 🎯 Availability
+
+Currently seeking fixed-term or permanent employment, as well as assignments through staffing agencies.
+
+📍 Remote work preferred from Belgium; on-site work possible in the Liège area.
+
+You can contact me directly on LinkedIn or arrange an assignment through [TeamOne Belgium](https://www.teamone.be/fr/chercher-interimaire), mentioning my name: Thierry Maesen. I am also open to working through your preferred staffing agency.
+
+Interested in assessing my skills? Let's discuss your needs, explore my projects, or work through a practical Python challenge.
+
+### 🌐 Explore My Background and Projects
+
+My [personal website](https://ai.thierrymaesen.be/) presents my background, working methods, and a selection of my Python and artificial intelligence projects.
+
+<a href="https://ai.thierrymaesen.be/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Personal_Website-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Thierry Maesen's personal website" />
+</a>
+
+<a href="https://www.linkedin.com/in/thierrymaesen" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Thierry Maesen's LinkedIn profile" />
 </a>
 
 </div>
